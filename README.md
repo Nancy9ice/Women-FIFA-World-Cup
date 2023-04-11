@@ -111,7 +111,7 @@ According to our dashboard, here are the following observations:
 
 Special thanks to my teammate, [Kaosarah](https://github.com/Kaosarah), for working with me to make this project a huge success. 
 
-Thank you to the Women in Data Africa Community for hosting this Datathon and giving us the opportunity to learn so much more than we expected. 
+Thank you to the [Women in Data Africa Community](https://twitter.com/WomenInDataAfri) for hosting this Datathon and giving us the opportunity to learn so much more than we expected. 
 
 
 
