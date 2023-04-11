@@ -75,7 +75,7 @@ The data was efficiently cleaned and transformed using Python. Some of the steps
 
 [![Women FIFA World Cup Dashboard Image](Women%20FIFA%20World%20Cup%20Dashboard%20Image.PNG)](https://app.powerbi.com/view?r=eyJrIjoiM2Q0ZTYyOWMtOWRkNC00YWI4LTg0OWItMWI0NzYzZmQzYmFlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-*Click the image to be redirected to the interactive dashboard*
+***Click the image to be redirected to the interactive dashboard***
 
 According to our dashboard, here are the following observations:
 
